@@ -9,6 +9,6 @@ images:
   newTag: v1.0
 - name: backend
   newName: 273444517440.dkr.ecr.us-east-1.amazonaws.com/labs-dvn-repo/dev/backend=273444517440.dkr.ecr.us-east-1.amazonaws.com/labs-dvn-repo/dev/backend
-  newTag: d70b1d890d9e155a1199a689bb80214c8a22baae
+  newTag: 9815fa63fe8afaaf69d22614a9eef4f42b39d2ba
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
