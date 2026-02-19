@@ -7,3 +7,4 @@ images:
 - name: 273444517440.dkr.ecr.us-east-1.amazonaws.com/labs-dvn-repo/dev/backend
   newName: 273444517440.dkr.ecr.us-east-1.amazonaws.com/labs-dvn-repo/dev/backend
   newTag: v1.0
+  
