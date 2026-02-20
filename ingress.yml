@@ -5,7 +5,7 @@ metadata:
   annotations:
     alb.ingress.kubernetes.io/load-balancer-name: labs-dvn-mini-curso-eks-alb
     alb.ingress.kubernetes.io/scheme: internet-facing
-    alb.ingress.kubernetes.io/subnets: subnet-0217c1cdca419d621,subnet-0b944888fe9e39140
+    alb.ingress.kubernetes.io/subnets: subnet-0117f86b104519205,subnet-0c0614b1f08ebc18c
     alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}]'
 spec:
   ingressClassName: alb
